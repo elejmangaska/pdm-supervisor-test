@@ -1,0 +1,8 @@
+apply plugin: 'java'
+apply plugin: 'osgi'
+
+apply from: 'ci/library.gradle'
+
+dependencies {
+    testCompile library('junit:junit:')
+}

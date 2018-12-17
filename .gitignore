@@ -1,0 +1,16 @@
+bin/
+build/
+build-jenkins/
+.settings/
+.classpath
+.project
+.gradle/
+.sonar/
+bundle/
+runtime/
+paxexam/
+*.iml
+.idea
+out
+sonar-project.properties
+src/componentTest/resources/cf2docker.properties

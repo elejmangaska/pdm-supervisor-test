@@ -1,0 +1,6 @@
+[submodule "ci"]
+	path = ci
+	url = https://github.com/relayr/pdm-ci-jvm
+[submodule "semver"]
+	path = semver
+	url = https://github.com/relayr/pdm-ci-semver
